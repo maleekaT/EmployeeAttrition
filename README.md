@@ -13,5 +13,5 @@ Machine learning algorithms were tested on :
   - Balanced data after application of SMOTE with random undersampling.
 
 
-The application of SMOTE enhanced the model results, and amplified them further when combined with random undersampling technique.
+The application of SMOTE enhanced the model results.
 
