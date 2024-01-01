@@ -16,6 +16,6 @@ Machine learning algorithms were tested on :
 The application of SMOTE enhanced models results.
 
 
-![Capture d’écran (777)](https://github.com/maleekaT/EmployeeAttrition/assets/97406035/c9f40c33-914f-401a-840e-bcc96ed4f727)
+![Capture d’écran (779)](https://github.com/maleekaT/EmployeeAttrition/assets/97406035/08281d74-10cb-4064-972e-968e1c7eac5d)
 
 
